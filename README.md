@@ -103,6 +103,7 @@ roslaunch vs_turtlebot visual-servo-turtlebot-sim.launch_
 The process involves launching a window called "visp_auto_tracker debug display" which displays the camera's input images. When the target (marker) is placed in front of the camera, it is automatically detected, and the robot receives a velocity command to move towards the target.
 
 
+Reference:-https://github.com/anissalintang/vs_turtlebot_project
 
 
 
