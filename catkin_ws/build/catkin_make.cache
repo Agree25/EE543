@@ -1,0 +1,2 @@
+vs_turtlebot_project/vs_turtlebot
+-DCATKIN_DEVEL_PREFIX=/home/yogesh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yogesh/catkin_ws/install -G Unix Makefiles

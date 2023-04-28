@@ -1,0 +1,8 @@
+prefix=/home/yogesh/catkin_ws/devel
+
+Name: vs_turtlebot
+Description: Description of vs_turtlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rosconsole roscpp visp_bridge
