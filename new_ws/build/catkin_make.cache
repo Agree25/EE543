@@ -1,0 +1,2 @@
+p3dx_control:p3dx_description:p3dx_gazebo:visual_servo
+-DCATKIN_DEVEL_PREFIX=/home/yogesh/last_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yogesh/last_ws/install -G Unix Makefiles
